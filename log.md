@@ -3,6 +3,14 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 6: 30 March 2017
+
+**Today's Progress:** Worked on my FCC Tic-Tac-Toe Game
+
+**Thoughts:** Mostly debugging the playGame function and adding and removing the proper event listeners.
+
+**Link to work:** [FCC - Tic-Tac-Toe](http://codepen.io/muir-fionn/full/bqRypq)
+
 ### Day 5: 29 March 2017
 
 **Today's Progress:** Day 14 of 30Days30Sites.  Designed a printing company homepage.

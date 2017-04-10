@@ -9,7 +9,7 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Thoughts:** Made a homepage with slideshow style action steps section.
 
-**Link to work:** [Charitable Organization (Github)](https://muir-fionn.github.io/Charitable-Organization/)
+**Link to work:** [Charitable Organization (Github)](https://muir-fionn.github.io/Charitable-Organization/) || [Charitable Organization (Codepen)](http://codepen.io/muir-fionn/full/yMmXzd)
 
 ### Day 13: 8 April 2017
 
@@ -17,7 +17,7 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Thoughts:** Completed JS nav click events functions to simulate page changes.
 
-**Link to work:** [Motivational Speaker (Github)](https://muir-fionn.github.io/Motivational-Speaker/)
+**Link to work:** [Motivational Speaker (Github)](https://muir-fionn.github.io/Motivational-Speaker/) || [Motivational Speaker (Codepen)](http://codepen.io/muir-fionn/full/mWNwMp)
 
 ### Day 12: 7 April 2017
 
@@ -25,7 +25,7 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Thoughts:** Finalized CSS layout.
 
-**Link to work:** [Clothing Site (Github)](https://muir-fionn.github.io/Clothing-Store/)
+**Link to work:** [Clothing Site (Github)](https://muir-fionn.github.io/Clothing-Store/) || [Clothing Site (Codepen)](http://codepen.io/muir-fionn/full/yMmXPm)
 
 ### Day 11: 6 April 2017
 

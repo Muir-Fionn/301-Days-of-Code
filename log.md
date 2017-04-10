@@ -3,6 +3,70 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 14: 9 April 2017
+
+**Today's Progress:** Built Charity Organization Site for 30 days 30 sites
+
+**Thoughts:** Made a homepage with slideshow style action steps section.
+
+**Link to work:** [Charitable Organization (Github)](https://muir-fionn.github.io/Charitable-Organization/)
+
+### Day 13: 8 April 2017
+
+**Today's Progress:** Finished Motivational Speaker site
+
+**Thoughts:** Completed JS nav click events functions to simulate page changes.
+
+**Link to work:** [Motivational Speaker (Github)](https://muir-fionn.github.io/Motivational-Speaker/)
+
+### Day 12: 7 April 2017
+
+**Today's Progress:** Finished Clothing Store Site
+
+**Thoughts:** Finalized CSS layout.
+
+**Link to work:** [Clothing Site (Github)](https://muir-fionn.github.io/Clothing-Store/)
+
+### Day 11: 6 April 2017
+
+**Today's Progress:** Build Homepage for Motivational Speaker Site
+
+**Thoughts:** Build HTML and CSS for homepage. Started thinking through code for different nav between homepage and secondary pages.
+
+**Link to work:** [Motivational Speaker (Github)](https://muir-fionn.github.io/Motivational-Speaker/)
+
+### Day 10: 5 April 2017
+
+**Today's Progress:** Started JS for motivational speaker site.
+
+**Thoughts:** Wrote DOM events to populate CSV and Upcoming Events Sections.
+
+**Link to work:** [Motivational Speaker (Github)](https://muir-fionn.github.io/Motivational-Speaker/)
+
+### Day 9: 4 April 2017
+
+**Today's Progress:** Started on Clothing Site for 30 days 30 sites
+
+**Thoughts:** Felt stuck on motivational speaker page, so went for clothing site instead.
+
+**Link to work:** [Clothing Site (Github)](https://muir-fionn.github.io/Clothing-Store/)
+
+### Day 8: 3 April 2017
+
+**Today's Progress:** Worked on CSS for Motivational Speaker Page
+
+**Thoughts:** Finished HTML and laid out most of the CSS for motivational speaker page.
+
+**Link to work:** [Motivational Speaker (Github)](https://muir-fionn.github.io/Motivational-Speaker/)
+
+### Day 7: 2 April 2017
+
+**Today's Progress:** Started Building Motivational Speaker Site for 30 days 30 sites.
+
+**Thoughts:** Took April 1st off to celebrate a close friend's birthday. Going to be a busy week. I barely had time to squeeze in an hour of code today, so just laid out the basic HTML and CSS frameworks for the page.
+
+**Link to work:** [Motivational Speaker (Github)](https://muir-fionn.github.io/Motivational-Speaker/)
+
 ### Day 6: 30 March 2017
 
 **Today's Progress:** Worked on my FCC Tic-Tac-Toe Game

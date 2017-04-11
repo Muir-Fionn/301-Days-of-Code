@@ -3,6 +3,14 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 15: 10 April 2017
+
+**Today's Progress:** Started on Cruise Ship Site for 30 days 30 sites
+
+**Thoughts:** Made a homepage with slideshow style action steps section.
+
+**Link to work:** [Cruise Ship (Github)](https://github.com/Muir-Fionn/Cruise-Ship)
+
 ### Day 14: 9 April 2017
 
 **Today's Progress:** Built Charity Organization Site for 30 days 30 sites

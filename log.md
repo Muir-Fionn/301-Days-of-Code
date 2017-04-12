@@ -15,7 +15,7 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Today's Progress:** Started on Cruise Ship Site for 30 days 30 sites
 
-**Thoughts:** Made a homepage with slideshow style action steps section.
+**Thoughts:** Laid out HTML and started on CSS styling.
 
 **Link to work:** [Cruise Ship (Github)](https://github.com/Muir-Fionn/Cruise-Ship)
 

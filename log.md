@@ -3,6 +3,14 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 17: 12 April 2017
+
+**Today's Progress:** Started HTML and CSS on Candy landing page for 30 days 30 sites
+
+**Thoughts:** Simple HTML layout and basic CSS.  Not quite happy with color palette.  Also need to add js for blog posts.
+
+**Link to work:** [Candy (Github)](https://github.com/Muir-Fionn/Candy)
+
 ### Day 16: 11 April 2017
 
 **Today's Progress:** Finished Cruise Ship Site for 30 days 30 sites

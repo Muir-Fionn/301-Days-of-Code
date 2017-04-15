@@ -3,13 +3,21 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 19: 14 April 2017
+
+**Today's Progress:** Finished Blog Landing Page for 30 days 30 sites.
+
+**Thoughts:** So much javascript in this one. Continued to mimic the layout from [this wordpress theme](http://demo.stylishthemes.co/graceunderpressure/journal/author/kadar/). Learned a lot about transform and position properties.
+
+**Link to work:** [Blog (Github)](https://muir-fionn.github.io/Blog-Landing-Page) || [Blog (Codepen)](http://codepen.io/muir-fionn/full/bWNPeB)
+
 ### Day 18: 13 April 2017
 
 **Today's Progress:** Finished Candy Landing Page, started on Blog Landing Page for 30 days 30 sites.
 
 **Thoughts:** Changed color palette for candy page. Laid out html and started on CSS for Blog Landing Page. Based blog layout on [this wordpress theme](http://demo.stylishthemes.co/graceunderpressure/journal/author/kadar/).
 
-**Link to work:** [Candy (Github)](https://muir-fionn.github.io/Candy) || [Candy (Codepen)](http://codepen.io/muir-fionn/full/OmPJQg) || [Blog (Github)]()
+**Link to work:** [Candy (Github)](https://muir-fionn.github.io/Candy) || [Candy (Codepen)](http://codepen.io/muir-fionn/full/OmPJQg) || [Blog (Github)](https://github.com/Muir-Fionn/Blog-Landing-Page)
 
 ### Day 17: 12 April 2017
 

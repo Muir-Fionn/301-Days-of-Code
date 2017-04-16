@@ -3,6 +3,14 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 20: 15 April 2017
+
+**Today's Progress:** Made HTML Email Template for 30 days 30 sites.
+
+**Thoughts:** Using tables and inline styles for consistency with actual email requirements.  Better appreciate the modern CSS box model and the ease and flexibility it gives to page layout.
+
+**Link to work:** [Email (Github)](https://muir-fionn.github.io/HTML-Email-Template) || [Email (Codepen)](http://codepen.io/muir-fionn/full/KmpNBz)
+
 ### Day 19: 14 April 2017
 
 **Today's Progress:** Finished Blog Landing Page for 30 days 30 sites.

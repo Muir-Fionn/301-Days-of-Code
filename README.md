@@ -5,7 +5,6 @@
 ## Contents
 * [Rules](rules.md)
 * [Log](log.md)
-* [FAQ](https://github.com/akshay1337/301-Days-Of-Code#faq)
 
 ## My Journey:
 Started: 25 March 2017

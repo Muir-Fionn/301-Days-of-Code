@@ -3,6 +3,22 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 22: 17 April 2017
+
+**Today's Progress:** Added viewport tags to github and local repositories. Played through all levels of Flexbox Froggy.
+
+**Thoughts:** Flexbox Froggy was a lot of fun and I learned about how align-content and flex-flow.
+
+**Link to work:** [Flexbox Froggy](http://flexboxfroggy.com/)
+
+### Day 21: 16 April 2017
+
+**Today's Progress:** Built boilerplates for next weeks 30 Day 30 Sites prompts.
+
+**Thoughts:** Laid out basic html, css and js files and linked them for day 22-25's prompts. Also added viewport meta tag to my Code Pen sites with media queries.
+
+**Link to work:** [30 Days 30 Sites (Github)](https://github.com/Muir-Fionn/30-Days-30-Sites)
+
 ### Day 20: 15 April 2017
 
 **Today's Progress:** Made HTML Email Template for 30 days 30 sites.

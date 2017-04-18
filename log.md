@@ -1,5 +1,5 @@
 # #301DaysOfCode - Log
-The daily log of my **#301DaysOfCode** challenge.
+The daily log of my [**#301DaysOfCode**](README.md) challenge.
 
 ## Log
 

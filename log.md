@@ -3,6 +3,14 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 23: 18 April 2017
+
+**Today's Progress:** Played through all levels of CSS Grid Garden and CSS Diner.
+
+**Thoughts:** My first time playing with CSS Grid. I might have to start integrating this into a couple of my apps as it gains wider support. CSS Diner was a good way to review CSS selectors.
+
+**Link to work:** [CSS Grid Garden](http://http://cssgridgarden.com) || [CSS Diner](https://flukeout.github.io/)
+
 ### Day 22: 17 April 2017
 
 **Today's Progress:** Added viewport tags to github and local repositories. Played through all levels of Flexbox Froggy.

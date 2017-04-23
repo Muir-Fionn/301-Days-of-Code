@@ -3,6 +3,22 @@ The daily log of my [**#301DaysOfCode**](README.md) challenge.
 
 ## Log
 
+### Day 25: 22 April 2017
+
+**Today's Progress:** Started setting up a slack app for Chingu-Rhinos build-to-learn project
+
+**Thoughts:** Installed/configured expresss and ngrok and started writing the JSON and app.js files in order to test server operation with a simple test command.
+
+**Link to work:** [Hack The Dot D-A-R-E Site](https://github.com/D-A-R-E/wire-up)
+
+### Day 24: 19 April 2017
+
+**Today's Progress:** Participated in Hack the Dot hosted by Name.com.  Based on domain Denver.Cloud
+
+**Thoughts:** First Hackathon.  It was only 2 hours which made it difficult for building a webpage. Learned a bit about angular and bootstrap swatches.
+
+**Link to work:** [Hack The Dot D-A-R-E Site](https://github.com/D-A-R-E/wire-up)
+
 ### Day 23: 18 April 2017
 
 **Today's Progress:** Played through all levels of CSS Grid Garden and CSS Diner.

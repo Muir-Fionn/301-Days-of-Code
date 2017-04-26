@@ -3,13 +3,21 @@ The daily log of my [**#301DaysOfCode**](README.md) challenge.
 
 ## Log
 
+### Day 26: 25 April 2017
+
+**Today's Progress:** Updated node dependencies and app.js file for slack bot.
+
+**Thoughts:** Added body-parser and request as node dependencies.  Required new dependencies in app.js and updated app.js to use them to properly when reading the slack message JSON.
+
+**Link to work:** [Chingu Bot](https://github.com/Muir-Fionn/rhino-bot-project)
+
 ### Day 25: 22 April 2017
 
 **Today's Progress:** Started setting up a slack app for Chingu-Rhinos build-to-learn project
 
 **Thoughts:** Installed/configured expresss and ngrok and started writing the JSON and app.js files in order to test server operation with a simple test command.
 
-**Link to work:** [Hack The Dot D-A-R-E Site](https://github.com/D-A-R-E/wire-up)
+**Link to work:**
 
 ### Day 24: 19 April 2017
 

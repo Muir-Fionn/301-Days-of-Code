@@ -3,6 +3,14 @@ The daily log of my [**#301DaysOfCode**](README.md) challenge.
 
 ## Log
 
+### Day 27: 27 April 2017
+
+**Today's Progress:** Worked on Tic Tac Toe game for FreeCodeCamp
+
+**Thoughts:** Rewrote Play Game function, wrote game test functions, added in automatic reset on win, score updating, and game end announcement. Not doing too well on staying daily the last week and a half because of work, but I should be on a saner schedule next week and back on track.
+
+**Link to work:** [Chingu Bot](https://github.com/Muir-Fionn/rhino-bot-project)
+
 ### Day 26: 25 April 2017
 
 **Today's Progress:** Updated node dependencies and app.js file for slack bot.

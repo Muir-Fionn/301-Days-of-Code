@@ -3,13 +3,21 @@ The daily log of my [**#301DaysOfCode**](README.md) challenge.
 
 ## Log
 
+### Day 28: 28 April 2017
+
+**Today's Progress:** Wrote a couple of commands for my chingu bot project.
+
+**Thoughts:** Wrote slash commands for giving users a description of the bot, adding a project checklist, adding an item to a given checklist.  Need to add some extra failsafe checks, but overall working well.
+
+**Link to work:** [Chingu Bot](https://github.com/Muir-Fionn/rhino-bot-project)
+
 ### Day 27: 27 April 2017
 
 **Today's Progress:** Worked on Tic Tac Toe game for FreeCodeCamp
 
 **Thoughts:** Rewrote Play Game function, wrote game test functions, added in automatic reset on win, score updating, and game end announcement. Not doing too well on staying daily the last week and a half because of work, but I should be on a saner schedule next week and back on track.
 
-**Link to work:** [Chingu Bot](https://github.com/Muir-Fionn/rhino-bot-project)
+**Link to work:** [Tic-Tac-Toe](http://codepen.io/muir-fionn/pen/bqRypq)
 
 ### Day 26: 25 April 2017
 

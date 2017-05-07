@@ -7,11 +7,15 @@
 * [Log](log.md)
 
 ## My Journey:
-Started: 25 March 2017
+#### Second Attempt   
+Started: `07 May 2017`  
+End(Expected): `04 March 2018`  
+End(Actual): `undefined`
 
-End (Expected): 19 Jan 2018
-
-End (Actual): ```undefined```
+#### First Attempt    
+Started: `25 March 2017`  
+End(Expected): `19 Jan 2018`  
+End(Actual): `false`
 
 ## What is #301DaysOfCode?
 Want to go from code noob to employed developer in less than a year?

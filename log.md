@@ -2,6 +2,15 @@
 The daily log of my [**#301DaysOfCode**](README.md) challenge.
 
 ## Log
+### Day 01: 07 May 2017
+
+**Today's Progress:** Finished FCC Tic-Tac-Toe Game.
+
+**Thoughts:** Restarted 301DaysOfCode attempt.  I've had a couple of really busy weeks where I haven't been coding, so a fresh strart seems the only honest thing to do.  Finished coding the FCC Tic-Tac-Toe game today.  Didn't end up implementing the minmax algorithm for the computer turn.  Instead, the computer just plays at a random spot right now.  This is something I'll go back and work on again in the future, but right now I just want to finish the FCC Front End Cert.
+
+**Link to work:** [Chingu Bot](https://github.com/Muir-Fionn/rhino-bot-project)
+
+--------------------------------------
 
 ### Day 28: 28 April 2017
 
